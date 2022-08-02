@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Wikilabs</title>
+ <link href="https://dopolavoro-matematico.github.io//atom.xml" rel="self"/>
+ <link href="https://dopolavoro-matematico.github.io//"/>
+ <updated>2022-08-02T15:20:15+00:00</updated>
+ <id>https://dopolavoro-matematico.github.io/</id>
+ <author>
+   <name>alendo</name>
+   <email>alendo@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Un altro laboratorio del fare</title>
+   <link href="https://dopolavoro-matematico.github.io//2022/07/30/un-altro-lab.html"/>
+   <updated>2022-07-30T00:00:00+00:00</updated>
+   <id>https://dopolavoro-matematico.github.io//2022/07/30/un-altro-lab</id>
+   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Altro laboratorio</title>
+   <link href="https://dopolavoro-matematico.github.io//2020/04/03/altro-laboratorio.html"/>
+   <updated>2020-04-03T00:00:00+00:00</updated>
+   <id>https://dopolavoro-matematico.github.io//2020/04/03/altro-laboratorio</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Albergo con stanze infinite</title>
+   <link href="https://dopolavoro-matematico.github.io//2020/04/02/esempio-di-laboratorio.html"/>
+   <updated>2020-04-02T00:00:00+00:00</updated>
+   <id>https://dopolavoro-matematico.github.io//2020/04/02/esempio-di-laboratorio</id>
+   <content type="html">&lt;p&gt;L’infinito è il pane quotidiano della matematica. I numeri, per fare l’esempio più ovvio, sono infiniti. Ma i matematici, nel corso dei secoli, hanno cambiato più volte idea intorno all’infinito. In questo laboratorio (ricalcato su un famoso esempio proposto da Hilbert), giocheremo con l’idea di infinito, tentando di sistemare comitive di clienti sempre più numerose in un albergo già pieno. Durante il gioco, misureremo quanto sono grandi diversi insiemi di numeri; sveleremo il comportamento bizzarro – ma non arbitrario – dell’infinito; e mostreremo come si usa la matematica per riuscire a pensare ciò che, a prima vista, appare impensabile.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>I pentamini</title>
+   <link href="https://dopolavoro-matematico.github.io//2020/04/01/i-pentamini.html"/>
+   <updated>2020-04-01T00:00:00+00:00</updated>
+   <id>https://dopolavoro-matematico.github.io//2020/04/01/i-pentamini</id>
+   <content type="html">&lt;p&gt;Cercheremo e costruiremo insieme i pentamini e li useremo per risolvere puzzle di varie difficoltà, per giocare insieme e per approfondire aspetti interessanti della geometria.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
